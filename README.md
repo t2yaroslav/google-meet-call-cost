@@ -1,18 +1,12 @@
-# Google Meet Transcript Translator Extension
+# Google Meet Call Cost
 
-This is a Google Chrome extension that translates Google Meet live transcriptions into the language of your choice.
+This is a Google Chrome extension calculate call cost
 
 ## Features
-
-- Live translation of Google Meet transcriptions
-- Customizable target language
 
 ## How to Use
 
 1. Click on the extension's icon in the toolbar to open the popup.
-2. Select your preferred target language for translation from the dropdown menu in the popup.
-3. Join a Google Meet and activate Live Caption.
-4. The live transcriptions will automatically be translated into your selected target language.
 
 ## Installation
 
